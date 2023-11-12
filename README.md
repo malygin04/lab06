@@ -22,17 +22,19 @@
 
 тест 1:
 
-![1](https://github.com/malygin04/lab06/assets/102820638/963f3931-9a6d-4b2a-825b-529b5baa8227)
+![9](https://github.com/malygin04/lab06/assets/102820638/c5e3df34-c9af-4405-891e-2810569c2868)
+
 
 тест 2:
 
 
+![10](https://github.com/malygin04/lab06/assets/102820638/18d2f734-b8b1-4a58-95c2-a79d1d6e7d77)
 
-![2](https://github.com/malygin04/lab06/assets/102820638/6973ae03-b06d-45b6-9223-9dd60b75b5d6)
 
 тест 3:
 
-![3](https://github.com/malygin04/lab06/assets/102820638/e9fc79ea-988e-4d23-94ef-d6ae9ab76b32)
+![11](https://github.com/malygin04/lab06/assets/102820638/2312fa0f-844e-4316-92ad-67c06a9ce9d7)
+
 
 
 
